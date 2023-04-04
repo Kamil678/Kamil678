@@ -2,7 +2,7 @@
 
 **About me**
 <br/>
-I'm 21 years old, technical student. I am also Front-end passionate:computer:. I love programming in JavaScript and React. I also love learning new things and going deeper in subjects I already have knowledge about 📕. I am currently looking for a job as a junior frontend developer.
+I'm 22 years old, technical student. I am also Front-end passionate:computer:. I love programming in JavaScript and Vue. I also love learning new things and going deeper in subjects I already have knowledge about 📕. I am currently looking for a job as a frontend developer.
 
 
 # 🛠️ Languages and Tools I use on daily basis:
