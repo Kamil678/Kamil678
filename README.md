@@ -2,7 +2,7 @@
 
 **About me**
 <br/>
-I am a Frontend developer with over 5 years of experience in web technologies and 2.5 years of commercial experience. I have very good knowledge of JavaScript, TypeScript and Vue, along with practical experience in implementing and managing frontend and fullstack projects.
+I am a Frontend Developer with over 5 years of experience in web technologies and 2.5 years of commercial experience. I have very good knowledge of JavaScript, TypeScript and Vue, along with practical experience in implementing and managing frontend and fullstack projects.
 
 
 # 🛠️ Languages and Tools I use on daily basis:
