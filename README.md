@@ -2,7 +2,7 @@
 
 **About me**
 <br/>
-I'm 22 years old, technical student. I am also Front-end passionate:computer:. I love programming in JavaScript and Vue. I also love learning new things and going deeper in subjects I already have knowledge about 📕. I am currently looking for a job as a frontend developer.
+I am a Frontend developer with over 5 years of experience in web technologies and 2.5 years of commercial experience. I have very good knowledge of JavaScript, TypeScript and Vue, along with practical experience in implementing and managing frontend and fullstack projects.
 
 
 # 🛠️ Languages and Tools I use on daily basis:
