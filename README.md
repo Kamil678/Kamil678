@@ -38,14 +38,14 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/-React%20(Basics)-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 ### 🛠️ Backend
 
 ![Node.js (Basics)](https://img.shields.io/badge/-Node.js%20(Basics)-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js (Basics)](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js (Basics)](https://img.shields.io/badge/-Express.js%20(Basics)-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP (Basics)](https://img.shields.io/badge/-PHP%20(Basics)-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 🗄️ Databases
