@@ -17,7 +17,7 @@
 - 🧰 I’m fluent in frontend tooling: Webpack, Vite, Git, GitHub/GitLab, Docker and Cypress
 - 📦 I’m not afraid to dive into backend — I’ve worked with PHP, Node.js (basics), Express, MySQL and REST APIs
 - 🧠 Constant learner — always exploring new patterns, libraries, SSR, testing and architecture
-- 🤝 Friendly, communicative, and a team player who loves writing clear docs and clean commits
+- 🤝 Friendly, communicative, and a team player who loves writing clear code
 
 ---
 
